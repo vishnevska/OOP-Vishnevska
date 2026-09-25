@@ -1,0 +1,13 @@
+# Файли компіляції .NET
+bin/
+obj/
+
+# Налаштування Visual Studio Code
+.vscode/
+
+# Файли Visual Studio
+.vs/
+
+# Тимчасові файли
+*.user
+*.suo
