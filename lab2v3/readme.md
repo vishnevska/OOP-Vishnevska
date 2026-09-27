@@ -8,7 +8,7 @@
 https://github.com/vishnevska/OOP-Vishnevska.git
 
 ## 2. Код програми (`Program.cs`)
-
+```csharp
 using System;
 namespace Lab2
 {
