@@ -85,6 +85,7 @@ public class OrderController : Controller
         return View(viewModel);
     }
 }
+```
 Такий рефакторинг залишає контролеру єдину відповідальність — прийом HTTP-запиту та вибір `IActionResult`, а логіку формування ViewModel робить незалежною та придатною для модульного тестування.
 
 ---
